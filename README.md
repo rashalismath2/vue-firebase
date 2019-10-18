@@ -4,6 +4,8 @@
 
 ## Build Setup
 
+add firebase cdn in src/auth/firebase-auth.js and initialize   const db=firebase.firestore();
+
 ``` bash
 # install dependencies
 npm install
